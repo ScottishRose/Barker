@@ -1,0 +1,1 @@
+DELETE FROM barks WHERE id=$1;

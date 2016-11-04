@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: brown;
+}
+
+form {
+  text-align: center;
+  padding: 25px;
+}
+
+.button {
+  padding: 10px;
+}
